@@ -1,0 +1,35 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Consultora}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Quienes somos}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Misión}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Visión}{1}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Equipo}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Williams Aránguiz - Product owner}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Problemática}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Caso de estudio}{3}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Estado del arte}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Aplicaciones de voto electrónico}{4}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Sistemas de toma de decisiones}{4}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Sistemas de recuento de votos}{4}{subsubsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.3}Sistemas de encuestas y consultas anónimas}{4}{subsubsection.4.1.3}%
+\contentsline {subsubsection}{\numberline {4.1.4}Sistemas de voto}{5}{subsubsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.1.5}Otros sistemas de voto electrónico. Consideraciones}{11}{subsubsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.1.6}Estructura de un programa de voto electrónico}{12}{subsubsection.4.1.6}%
+\contentsline {subsubsection}{\numberline {4.1.7}Herramientas de software libre disponibles para programas de consulta}{15}{subsubsection.4.1.7}%
+\contentsline {section}{\numberline {5}Desarrollo}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Propósito del Informe}{17}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Desafío y escenario en que se aplica}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Descripción de la Solución propuesta}{19}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Imágenes del prototipo Físico y de Mockups}{20}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Perfil de Usuarios en el que se enfoca la solución}{21}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Tipo de técnicas de levantamiento de información}{22}{subsection.5.6}%
+\contentsline {subsection}{\numberline {5.7}Mapas y esquemas desarrollados}{23}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Usuarios entrevistados y fotografías del proceso}{24}{subsection.5.8}%
+\contentsline {subsection}{\numberline {5.9}Fotografías del Proceso de Testing}{25}{subsection.5.9}%
+\contentsline {subsection}{\numberline {5.10}Diseño de la Solución MVP}{26}{subsection.5.10}%
+\contentsline {subsection}{\numberline {5.11}Imágenes del prototipo físico mejorado y descripción de los Prototipos Tecnológicos diseñados }{27}{subsection.5.11}%
+\contentsline {subsection}{\numberline {5.12}Listado de menciones positivas y negativas de los usuarios sobre lo testeado}{28}{subsection.5.12}%
+\contentsline {subsection}{\numberline {5.13}Mejoras principales a considerar.}{29}{subsection.5.13}%
+\contentsline {section}{\numberline {6}Conclusión}{30}{section.6}%
+\contentsline {section}{\numberline {7}Bibliografia}{31}{section.7}%
+\contentsline {section}{\numberline {8}Glosario}{32}{section.8}%

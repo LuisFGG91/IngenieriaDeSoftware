@@ -1,0 +1,57 @@
+\documentclass[12pt,letterpaper,twoside]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{setspace}
+\spacing{1.5}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{lmodern}
+\usepackage{kpfonts}
+\usepackage{fourier}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Williams Aranguiz}
+\title{Proyecto semestral}
+\usepackage {fancyhdr}
+\usepackage{float}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\begin{document}
+
+\include{Portada}
+\thispagestyle{empty}
+\newpage
+
+\include{Indice}
+
+\setcounter{page}{1}
+\pagestyle{fancy}
+\fancyhead{} % clear all fields 
+\fancyhead[RO,LE]{
+ Proyecto semestral} 
+\fancyhead[LO,RE]{AIA}
+\fancyfoot{}
+\fancyfoot[LE,RO]{Sistema de votaciones} 
+\fancyfoot[LO,RE]{\thepage} 
+\renewcommand{\headrulewidth}{0.4pt} 
+\renewcommand{\footrulewidth}{0.4pt} 
+
+\include{Consultora}
+\include{Equipo}
+\include{Problematica}
+\include{Estado_del_arte}
+\include{Desarrollo}
+\include{Conclusion}
+\include{Bibliografia}
+\include{Glorario}
+
+
+\end{document}
